@@ -1,0 +1,61 @@
+.fluid{
+    display: flex;
+    list-style: none;
+    padding-left: 500px;
+    /* color: #fff; */
+}
+.navbar .container-fluid {
+    background-color: #402d4e;
+    /* background-color: #000; */
+}
+.navbar-brand{
+    color: #fff;
+}
+.nav-link{
+    padding-left: 35px;
+    margin-top: 10px;
+    font-weight: 700%;
+    font-size: 16px;
+    color: #fff;
+}
+.studen img{
+    width: 50%;
+}
+.section {
+    padding: 60px;
+    background-color: #402d4e;
+    color:#fff;
+}
+.wise {
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+.think {
+    border: 3px solid #fff;
+   justify-content: center;
+   padding: 30px;
+   text-decoration: none;
+}
+.wisdom {
+    justify-content: center;
+    padding: 40px;
+}
+.positive {
+    border: 2px solid #fff;
+    margin: 5px;
+    border-radius: 5px;
+} 
+.automatic {
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+.member {
+    border: 3px solid #fff;
+    justify-content: center;
+    padding: 30px;
+    text-decoration: none;
+}
+.ion {
+    border-radius: 5px;
+    border: 2px solid #fff
+}
